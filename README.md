@@ -27,5 +27,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 1. Add a new rover
 ![1](./images/1.png)
 ![2](./images/2.png)
-2. Move the rover
+2. Move the rover.
+
+Notice that R3 is at (3,8)  which is in the way of R4. Hence, its final position is at (3,7).
 ![3](./images/3.png)
